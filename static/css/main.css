@@ -1,0 +1,35 @@
+h1 {
+color: blue;
+border: 2 px;
+margin: 10px 20px 30px 40px;
+}
+p {
+    color: slateblue;
+    padding: 5px
+}
+h2 {
+    color: brown
+}
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  body {
+    background-color: wheat;
+  }
+  h1 {
+    border-style: solid;
+    border-color: #92a8d1;
+  }
+  
+  div {
+    border-style: solid;
+    border-color: #92a8d1;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: auto;
+    border-radius: 8px;
+  }
